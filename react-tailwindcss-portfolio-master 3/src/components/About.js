@@ -10,7 +10,7 @@ export default function About() {
             <br className="hidden lg:inline-block" />I am an aspiring Full-Stack Developer.
           </h1>
           <p className="mb-8 leading-relaxed">
-            I am a clinical research associate with over five years of clinical research experience in Oncology. I sought a career change and pursued further education. I recently graduated from DigitalCrafts in Houston December 2022 where he became a full-stack developer. Her objective is to obtain an entry level position as a full-stack developer at a thriving company who is willing to investing his growth as a software developer.
+            I am a clinical research associate with over five years of clinical research experience in Oncology. I sought a career change and pursued further education. I recently graduated from DigitalCrafts in Houston December 2022 where he became a full-stack developer. Her objective is to obtain an entry level position as a full-stack developer at a thriving company in Houston, TX who is willing to investing his growth as a software developer.
           </p>
           <div className="flex justify-center">
             <a

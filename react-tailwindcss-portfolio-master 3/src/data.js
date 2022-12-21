@@ -1,9 +1,9 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Parks Pioneer",
+    subtitle: "Full React Website utilizing 2 API Intergrations, Axios, Bootstrap, JavaScript, PostgreSQL and Sequelize  ",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "This website is dedicated to planning your day at a National Park, with an integrated Google Calendar that allows you to see weather. activities and events at parks all over the U.S. You can also view live-feeds from each park!",
     image: "./project-1.gif",
     link: "https://reactbootcamp.com",
   },

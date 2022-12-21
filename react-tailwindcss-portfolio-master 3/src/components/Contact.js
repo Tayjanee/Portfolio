@@ -72,7 +72,7 @@ export default function Contact() {
             Hire Me
           </h2>
           <p className="leading-relaxed mb-5">
-            Looking for Full-Stack opportunity at a progressive company. I am best reached by email!
+            Looking for Full-Stack opportunity at a progressive company in Houston, TX. I am best reached by email!
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
