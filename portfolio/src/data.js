@@ -34,7 +34,18 @@ export const projects = [
 ];
 
 export const testimonials = [
+  // {
+  //   quote:
+  //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+  //   name: "Resume",
+  //   image: "IMG_1768.jpg"
+  // },
+  // {
+  //   quote:
+  //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+  //   name: "Portfolio",
 
+  // },
 ];
 
 export const skills = [
