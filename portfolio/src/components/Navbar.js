@@ -17,11 +17,14 @@ export default function Navbar() {
           <a href="#skills" className="mr-5 hover:text-white">
             My Skills
           </a>
-          <a href="https://drive.google.com/file/d/12iEcDtROmyteaagUWBbwVN5z-1SHYt1W/view?usp=share_link" className="mr-5 hover:text-white">
+          <a href="https://drive.google.com/file/d/1JZ-3Uk-UXa1Mi6zQMfsJT3oGxIm2d-5r/view?usp=share_link" className="mr-5 hover:text-white">
             My Resume
           </a>
-          <a href="tayjanee.github.io" className="mr-5 hover:text-white">
-            My Portfolio
+          <a href="https://github.com/Tayjanee" className="mr-5 hover:text-white">
+            My GitHub
+          </a>
+          <a href="https://www.linkedin.com/in/taylor-mathis-mph/" className="mr-5 hover:text-white">
+            My LinkedIn
           </a>
         </nav>
         <a
