@@ -1,4 +1,5 @@
 {
+  "homepage": "http://tayjanee.github.io/Portfolio/",
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
@@ -11,10 +12,11 @@
   },
   "scripts": {
     "start": "craco start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "craco build",
     "test": "craco test",
-    "eject": "react-scripts eject",
-    "homepage": "http://tayjanee.github.io/Portfolio/"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [

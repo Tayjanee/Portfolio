@@ -26,6 +26,9 @@ export default function Navbar() {
           <a href="https://www.linkedin.com/in/taylor-mathis-mph/" className="mr-5 hover:text-white">
             My LinkedIn
           </a>
+          <a href="https://tayjanee.github.io/Portfolio/" className="mr-5 hover:text-white">
+            My Portfolio
+          </a>
         </nav>
         <a
           href="#contact"
